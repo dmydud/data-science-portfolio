@@ -4,6 +4,6 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 ## Projects
 
-[Movie Database Analysis](https://github.com/dmydud/movie-database-analysis): Analyzing the extensive MovieLens dataset using PostgreSQL for insights into user ratings, tags, and movie preferences.
+- [Movie Database Analysis](https://github.com/dmydud/movie-database-analysis): Analyzed the extensive MovieLens dataset using **PostgreSQL** for insights into user ratings, tags, and movie preferences. Leveraged **SQL** for data querying and analysis, alongside **Tableau** for visualization.
 
 Explore the code, data, notebooks, and reports for each project in the dedicated repositories.
